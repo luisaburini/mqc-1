@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Botao.qml</file>
+        <file>Cadastro.qml</file>
+        <file>Login.qml</file>
+        <file>Supervisor.qml</file>
+        <file>Atendente.qml</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file>coolvetica.ttf</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>header.png</file>
+        <file>background.png</file>
+        <file>lupa.png</file>
+    </qresource>
+</RCC>
